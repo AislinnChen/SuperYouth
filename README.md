@@ -39,6 +39,8 @@ Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，其他的介�
 
 选择GitHub就是希望这是一个志同道合的小伙伴共同创作的开源手册。如果你对上诉话题有深度共鸣，欢迎在<a href="https://github.com/AislinnChen/SuperYouth/discussions">讨论区</a>提出自己的想法和文章链接，我们看到后会邀请适合的作者加入创作团队。
 
+可在此查看<a href="https://github.com/AislinnChen/SuperYouth/projects/1">选题规划</a>
+
 <b>6. 人生偶像</b> 
 
 顶级偶像：Elon Musks, Naval Ravikant, Steve Jobs, Ray Dalio, 查理芒格, 毛泽东，科比 (list to be continued...)
