@@ -21,7 +21,7 @@
 
 -亿万大佬：身价过亿的一线企业家  （深度访谈）
 
--创新达人：阅历丰富洞见深刻的创业者  （深度访谈）
+-创新达人：阅历丰富洞见深刻的Innovator  （深度访谈）
 
 -思维模型：全球顶级思维模型智库  （采编撰稿）
  
@@ -43,7 +43,7 @@ Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，其他的介�
 
 <b>6. 人生偶像</b> 
 
-顶级偶像：Elon Musks, Naval Ravikant, Steve Jobs, Ray Dalio, 查理芒格, 毛泽东，科比 (list to be continued...)
+顶级偶像：Elon Musks, Naval Ravikant, Steve Jobs, Ray Dalio, 查理芒格， 毛泽东，科比 (list to be continued...)
 
 其他偶像：to be updated
 
