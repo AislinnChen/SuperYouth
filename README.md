@@ -41,7 +41,7 @@ Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，其他的介�
 
 <b>6. 人生偶像</b> 
 
-顶级偶像：Elon Musks, Naval Ravikant, Steve Jobs, Ray Dalio, 查理芒格, 毛泽东 (list to be continued...)
+顶级偶像：Elon Musks, Naval Ravikant, Steve Jobs, Ray Dalio, 查理芒格, 毛泽东，科比 (list to be continued...)
 
 其他偶像：to be updated
 
