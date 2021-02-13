@@ -31,7 +31,7 @@
 
 <b>4. 主笔介绍</b> 
 
-Aislinn: 读音「艾斯琳」，90，女，INTP， Sapiosexual，其他的介绍之后再加上。
+Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，其他的介绍之后再加上。
 
 <b>5. 加入创作</b> 
 
