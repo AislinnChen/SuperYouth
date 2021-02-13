@@ -9,11 +9,11 @@
 
 简洁、清晰、真挚、有用。
 
-未经足够时间、金钱和思考检验的观点，并没有参考价值。我们只会写自己深信的、践行的、投入了足够多时间和金钱探索的思考和结果，如何我们进化了，那你也可以从LOG中找到之前的记录。
+未经足够时间、金钱和思考检验的观点，并没有参考价值。我们只会写自己深信的、践行的的思考和结果，如果我们进化了，那你也可以从LOG中找到之前的记录。
 
 <b>3. 会写什么？</b> 
 
-这是目前构思的一些子栏目:
+这是目前构思的一些子栏目，可在此查看<a href="https://github.com/AislinnChen/SuperYouth/projects/1">选题规划</a>。
 
 -百万职场：年薪远超百万的年轻人 （深度访谈）
 
@@ -33,13 +33,12 @@
 
 <b>4. 主笔介绍</b> 
 
-Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，其他的介绍之后再加上。
+Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，more to be added。
 
 <b>5. 加入创作</b> 
 
 选择GitHub就是希望这是一个开源手册。如果你对上诉话题有深度共鸣，欢迎在<a href="https://github.com/AislinnChen/SuperYouth/discussions">讨论区</a>提出自己的想法和文章链接，我们看到后会邀请适合的作者加入创作团队。
 
-可在此查看<a href="https://github.com/AislinnChen/SuperYouth/projects/1">选题规划</a>
 
 <b>6. 人生偶像</b> 
 
