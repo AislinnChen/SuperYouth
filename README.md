@@ -47,4 +47,6 @@ Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，more to be ad
 其他偶像：to be updated
 
 
+<b>7. 内容目录</b> 
 
+-真实故事
