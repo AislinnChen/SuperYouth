@@ -49,4 +49,6 @@ Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，more to be ad
 
 <b>7. 内容目录</b> 
 
-- <a href="https://github.com/AislinnChen/SuperYouth/blob/main/%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B.md">真实故事</a>
+- <b> 真实故事 </b> 
+
+  <a href="https://github.com/AislinnChen/SuperYouth/blob/main/%E8%BE%BE%E6%8B%89%E6%96%AF%20%7C%20%E5%BC%80%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%9A%84%E8%80%81%E5%A4%B4%E5%92%8C%E4%BB%96%E7%9A%84%E4%B8%BB%E5%A6%87%E7%88%B1%E5%A6%BB.md">达拉斯 | 开私人飞机的老头和他的主妇爱妻</a>
