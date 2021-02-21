@@ -55,4 +55,4 @@ Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，more to be ad
   
 - <b> 人生偶像 </b> 
 
-  <a href="https://github.com/AislinnChen/SuperYouth/blob/main/%E7%A7%91%E6%AF%94.md"> 科比 | 即使不看篮球，你也会从科比曼巴精神中获益良多</a>
+  <a href="https://github.com/AislinnChen/SuperYouth/blob/main/%E7%A7%91%E6%AF%94.md"> 科比 | 曼巴精神给我的无穷的力量 </a>
