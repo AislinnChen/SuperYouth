@@ -21,7 +21,7 @@
 
 - 亿万大佬：身价过亿的一线企业家  （深度访谈）
 
-- 创新达人：阅历丰富洞见深刻的Innovator  （深度访谈）
+- 创新达人：揭秘早期创新与创新者 （深度访谈）
 
 - 思维模型：全球顶级思维模型智库  （采编撰稿）
  
@@ -33,7 +33,7 @@
 
 <b>4. 主笔介绍</b> 
 
-Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，more to be added。
+Aislinn，读音「艾斯琳」，INTP，享受智力与体力挑战，life-long bio-hacker
 
 <b>5. 加入创作</b> 
 
@@ -55,4 +55,4 @@ Aislinn，读音「艾斯琳」，90，女，INTP， Sapiosexual，more to be ad
   
 - <b> 人生偶像 </b> 
 
-  <a href="https://github.com/AislinnChen/SuperYouth/blob/main/%E7%A7%91%E6%AF%94.md"> 科比 | 曼巴精神给我的无穷的力量 </a>
+  <a href="https://github.com/AislinnChen/SuperYouth/blob/main/%E7%A7%91%E6%AF%94.md"> 科比 | 曼巴精神给我无穷力量 </a>
